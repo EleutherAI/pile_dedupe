@@ -7,7 +7,7 @@ Download the [Pile distribution](https://the-eye.eu/public/AI/pile/). Relevant f
 ## Install
 
 ```
-git clone ...
+git clone https://github.com/EleutherAI/pile_dedupe.git
 pip install -r requirements.txt
 ln -s PILE_LOCATION pile
 ```
